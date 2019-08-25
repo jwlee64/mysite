@@ -1,0 +1,14 @@
+.photosquareContainer {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 2.5vh;
+    align-content: center;
+    vertical-align: center;
+    border: 1px solid #DDD;
+}
+.photosquare {
+    margin: 0 0 0 -80px;
+    height: 300px;
+}

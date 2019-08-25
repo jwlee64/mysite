@@ -1,0 +1,29 @@
+.accentTextLinks {
+    color: #4183c4;
+    font-size: 2rem;
+    padding: 0 5px 0 5px;
+}
+
+.accentTextLinks:hover {
+    color: #EEE;
+}
+
+.accentText {
+    color: #41b5c4;
+    font-size: 2rem;
+    padding: 0 5px 0 5px;
+}
+
+#homepage {
+    /* background-image: url("oregonTrees.jpg"); */
+    /* https://www.tokkoro.com/picsup/5211199-drone-view-aerial-view-water-sea-ocean-beach-person-looking-down-holiday-vacation-wave-coast-shore-outdoors-inspiration-green-uluwatu-indonesia-bali-travel-free-pictures.jpg */
+    background-image: url("stockOcean.jpeg");
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+
+
+.greyCaptionDark {
+    color: #AAA;
+    font-size: 1.2rem;
+  }
